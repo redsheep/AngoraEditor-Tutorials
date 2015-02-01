@@ -1,0 +1,10 @@
+{
+  "display": {
+    "width": "800",
+    "height": "600"
+  },
+  "render": "AUTO",
+  "antialias": true,
+  "physics": "ARCADE",
+  "plugins": ""
+}

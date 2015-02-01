@@ -1,0 +1,41 @@
+{
+  "sprite16": {
+    "id": "sprite16",
+    "type": "sprite",
+    "visible": "true",
+    "x": 267,
+    "y": 259,
+    "width": "256",
+    "height": "128",
+    "image": "play",
+    "frame": 0,
+    "scaleX": 2.4615384615384617,
+    "scaleY": 2.206896551724138,
+    "anchorX": 0,
+    "anchorY": 0,
+    "rotation": 0,
+    "physics": false,
+    "dynamic": true,
+    "body": "default",
+    "mass": 10,
+    "fixedRotation": true,
+    "events": {
+      "onInputDown": "sprite16_onInputDown"
+    }
+  },
+  "image17": {
+    "id": "image17",
+    "type": "image",
+    "visible": "true",
+    "x": 201,
+    "y": 96,
+    "width": "365",
+    "height": "128",
+    "image": "title",
+    "scaleX": 2.8515625,
+    "scaleY": 4.266666666666667,
+    "anchorX": 0,
+    "anchorY": 0,
+    "rotation": 0
+  }
+}

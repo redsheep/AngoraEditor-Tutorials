@@ -1,0 +1,14 @@
+{
+    "preload": {
+        "name": "preload",
+        "id": "preload"
+    },
+    "main": {
+        "name": "main",
+        "id": "main"
+    },
+    "mainmenu": {
+        "name": "mainmenu",
+        "id": "mainmenu"
+    }
+}
